@@ -1,0 +1,201 @@
+restaurante,plato,precio
+EMBARCADERO,arepa rellena mixta,18200
+EMBARCADERO,hamburguesa raptor,24900
+EMBARCADERO,pique macho,20900
+EMBARCADERO,fish and chips,28500
+EMBARCADERO,arroz montañero,23900
+EMBARCADERO,patacon mixto,22500
+EMBARCADERO,hamburguesa Veggie Lisa,18100
+EMBARCADERO,arepa rellena veggie,18500
+EMBARCADERO,Ensalada de cascús,21900
+EMBARCADERO,arroz vegetariano,19200
+EMBARCADERO,patacon Veggie,17500
+EMBARCADERO,Fetuccini Parisieene,23900
+EMBARCADERO,Fetuccini Bolognesa,22700
+EMBARCADERO,ensalada de pollo y pasta,19600
+EMBARCADERO,Ensalada de cerdo crunch,21100
+PUNTO CREPES,Burrito de carne,21500
+PUNTO CREPES,Burrito de pollo,19800
+PUNTO CREPES,Burrito de cerdo,20700
+PUNTO CREPES,Burrito vegetariano,17400
+PUNTO CREPES,tacos de birria,23000
+PUNTO CREPES,tacos al pastor,20900
+PUNTO CREPES,crema azteca con pollo,20900
+PUNTO CREPES,crepe de carne,18100
+PUNTO CREPES,crepe roastbeef,23600
+PUNTO CREPES,crepe mexicano,20700
+PUNTO CREPES,crepe de pollo en salsa de champiñones,23000
+PUNTO CREPES,crepe de tomate y queso,18400
+PUNTO CREPES,crepe de pollo,22000
+PUNTO CREPES,crepe Stroganoff,19500
+PUNTO CREPES,crepe de lasagna,22500
+PUNTO WOK,Domburi - pollo,24100
+PUNTO WOK,Domburi - tofu,26100
+PUNTO WOK,noodles al curry - pollo,26500
+PUNTO WOK,noodles al curry - tofu,28500
+PUNTO WOK,fideos japache,22900
+PUNTO WOK,Honey chicken,20900
+PUNTO WOK,Pollo kung pao,24100
+PUNTO WOK,alitas de pollo en salsa teriyaki,21300
+PUNTO WOK,red chicken curry,23500
+PUNTO WOK,japaguri,23400
+PUNTO WOK,arroz mandarin,24500
+PUNTO WOK,Arroz frito,19800
+PUNTO WOK,wok lwao,25700
+PUNTO WOK,vermicelli camaron,24400
+PUNTO WOK,pad thai de pollo,27800
+PUNTO WOK,ramen de pollo,15800
+PUNTO WOK,wok chao fan,23900
+PUNTO WOK,wrap yellow,20900
+PUNTO WOK,salteado de verduras y tofu asiatico,29000
+PUNTO WOK,Ensalada konsai,24000
+PUNTO WOK,Ensalada Asia fresh - pollo,23900
+PUNTO WOK,Ensalada Asia fresh - queso tofu,25900
+PUNTO WOK,sushi Crispi rool,22900
+PUNTO WOK,sushi philadelphia,25900
+PUNTO WOK,sushi vulcano,21400
+PUNTO WOK,sushi vegetariano,20400
+PUNTO WOK,Bibimbap vegetariano,18700
+PUNTO WOK,Tumenu wok (menu del dia),17300
+KIOSKOS,Sparring del campo,31900
+KIOSKOS,punta de anca kioskos,39500
+KIOSKOS,bistec a la parrilla,22100
+KIOSKOS,churrasco gaucho,41300
+KIOSKOS,churrasco de pollo,31600
+KIOSKOS,trucha a la plancha,27200
+KIOSKOS,cerdo agridulce,25800
+KIOSKOS,brochetas de pollo,20800
+KIOSKOS,plato especial - carne,22000
+KIOSKOS,plato especial - pollo,21600
+KIOSKOS,parrillada,35200
+KIOSKOS,hamburguesa monterrey melt,25700
+KIOSKOS,hamburguesa pepper pork,25400
+KIOSKOS,hamburguesa de pollo,23100
+KIOSKOS,hamburguesa fries y bacon,25300
+KIOSKOS,hamburguesa criolla,27000
+KIOSKOS,parrillada vegetariana,27900
+KIOSKOS,hamburguesa vegetariana,22400
+KIOSKOS,ensalada de bits de soya y aguacate,26300
+KIOSKOS,ensalada tropical,19500
+KIOSKOS,kioskos con pollo grille,22300
+KIOSKOS,ensalada tuna salad,24900
+KIOSKOS,milanesa de cerdo,17300
+PUNTO SANDWICH,cochinita pibil 25cm,20200
+PUNTO SANDWICH,cochinita pibil 12cm,13800
+PUNTO SANDWICH,ropa vieja 25cm,26500
+PUNTO SANDWICH,ropa vieja 12cm,18300
+PUNTO SANDWICH,chorizo argentino 25cm,23500
+PUNTO SANDWICH,chorizo argentino 12cm,15600
+PUNTO SANDWICH,pork ribs 25cm,21100
+PUNTO SANDWICH,pork ribs 12cm,14500
+PUNTO SANDWICH,sobrebarriga chimichurri 25cm,24100
+PUNTO SANDWICH,sobrebarriga chimichurri 12cm,18500
+PUNTO SANDWICH,pepperoni 25cm,19800
+PUNTO SANDWICH,pepperoni 12cm,13500
+PUNTO SANDWICH,criollo 25cm,24600
+PUNTO SANDWICH,rostbeef pimenton moron 25cm,17900
+PUNTO SANDWICH,rostbeef pimenton moron 12cm,12600
+PUNTO SANDWICH,fresco con pollo y tocineta 25cm,23600
+PUNTO SANDWICH,fresco con pollo y tocineta 12cm,17000
+PUNTO SANDWICH,pollo teriyaki 25cm,21700
+PUNTO SANDWICH,pollo teriyaki 12cm,14900
+PUNTO SANDWICH,pollo miel mostaza 25cm,20300
+PUNTO SANDWICH,pollo miel mostaza 12cm,15200
+PUNTO SANDWICH,Honolulu 25cm,22300
+PUNTO SANDWICH,Honolulu 12cm,16700
+PUNTO SANDWICH,jamon ahumado 25cm,16700
+PUNTO SANDWICH,jamon ahumado 12cm,11800
+PUNTO SANDWICH,atun 25cm,23600
+PUNTO SANDWICH,papa big,13500
+PUNTO SANDWICH,crispy chedar,9300
+PUNTO SANDWICH,papa volcan,9900
+PUNTO SANDWICH,crispy con salchicha,10600
+CIPRESS,perro mexicano,14100
+CIPRESS,perro tradicional,13300
+CIPRESS,perro americano,11200
+CIPRESS,perro criollo,14000
+CIPRESS,pizza criolla,10500
+CIPRESS,pizza carbonara,12500
+Escuela,Panceta,24100
+Escuela,Crema de Cebolla puerro,21300
+Escuela,Tacos de camarón,23400
+Escuela,Ceviche costeño,19500
+Escuela,Ensalada rústica de pollo,29900
+Escuela,Salteado de hongos,27700
+Escuela,Ensalada fresca con salmón ahumado,31900
+Escuela,Ensalada roquefort,47000
+Escuela,Fiambre colombiano,37200
+Escuela,Pollo a la naranja,32800
+Escuela,Pollo en bbq de guayaba,31900
+Escuela,Matambre de cerdo,38600
+Escuela,Lomo relleno de queso mozarella,64000
+Escuela,Steak en salsa tres pimientas,55500
+Escuela,Chuletas de cordero,48800
+Escuela,Bife chorizo,62900
+Escuela,Posta cartagenera,36500
+Escuela,Chuleton,46900
+Escuela,Patarashca de salmon,63000
+Escuela,Cazuela de marisco,58200
+Escuela,Paella,47000
+Escuela,Tilapia al vino tinto,53200
+Escuela,Arroz con camarones,42400
+Escuela,Arroz paisa,33500
+Escuela,Pasta alfredo con lomo,51800
+Escuela,Raviolis de carne en salsa de chontaduro,36100
+Escuela,Arroz amazonico,32300
+Escuela,Lechona tolimense,28200
+Escuela,Bandeja paisa,41600
+Escuela,Ajiaco pequelño,17800
+Escuela,Ternera a la llanera,52300
+Meson,Menu del dia,17300
+Meson,Menu ligero,13600
+Meson,Linea rapida,17800
+Banderitas,Chicharrones arcos,23400
+Banderitas,Alitas con chimichurri,18700
+Banderitas,Chilli fries,20900
+Banderitas,Pizza pepperoni,26000
+Banderitas,Pizza pollo con miel mostaza,26600
+Banderitas,Pizza hawaiana,20200
+Banderitas,Pizza del huerto,19500
+Banderitas,Pizza vegana,19500
+Banderitas,Jambalaya,41600
+Banderitas,Lasagna de platano,36800
+Banderitas,Plato ligero con carne,29500
+Banderitas,Plato ligero con pollo,27400
+Banderitas,Parmegiano de pollo,33500
+Banderitas,Como caida del cielo - hamburguesa,28400
+Banderitas,Hamburguesa bbq,27400
+Banderitas,Bocado magico,20900
+Banderitas,Ensalada arcos,26600
+Banderitas,Ensalada italiana,27700
+Arcos,Patacon de ropa vieja,19500
+Arcos,Melanzame impanate,13400
+Arcos,minestrone,9500
+Arcos,Bruschetta fusion caprese,14900
+Arcos,Ravioli de carne,26100
+Arcos,Lasagna de pollo,32500
+Arcos,Arma tu pasta,31600
+Arcos,Pizza pepperoni,26000
+Arcos,Pizza pollo miel mostaza,26600
+Arcos,Pizza hawaiana,20200
+Arcos,Pizza del huerto,19500
+Arcos,Pizza vegana,19500
+Arcos,Chatas en mantequilla de naranja,48700
+Arcos,Estofado de res al vino tinto,37700
+Arcos,Lomo de res en salsa tres pimienta,49100
+Arcos,Salmon a la toscana,62000
+Arcos,Trucha al gusto,37900
+Arcos,parmegiana de pollo,33500
+Arcos,Pollo a la cazadora,36500
+Arcos,Ensalada de arcos,26600
+Arcos,Ensalada italiana,27700
+Arcos,Barra de ensaladas,16900
+Arcos,Chicharrones arcos,23400
+Arcos,Sopa de ajiaco,17800
+Arcos,Ajiaco santafereño,36800
+Arcos,Cazuela de frijoles,25000
+Arcos,Jambalaya,41600
+Arcos,Lasagna de platano,36800
+Arcos,Plato ligero con pollo,27400
+Arcos,Plato ligero con carne,29500
+Arcos,Plato ligero con tilapia,30500
